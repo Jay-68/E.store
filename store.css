@@ -30,7 +30,7 @@ body{
 #nav2 a:hover{
 	color: white;
 	font-family: sans-serif;
-	border-bottom: solid 2px aqua;
+	border-bottom: solid 2px #333;
 }
 
 .form1 button{

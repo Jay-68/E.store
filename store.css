@@ -1,0 +1,46 @@
+body{
+	background-image: url(images/water.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.container{
+	padding-top: 10px;
+}
+.navbar-inverse{
+	border-style: none;
+	background-color: transparent;
+}
+
+.navbar-brand a{
+	color: white;
+	text-decoration: none;
+	font-weight: bolder;
+	font-size: 30px;
+	font-family: cursive, sans-serif;
+}
+
+#nav2 a{
+	padding-bottom: 10px;
+	color: white;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+#nav2 a:hover{
+	color: white;
+	font-family: sans-serif;
+	border-bottom: solid 2px aqua;
+}
+
+.form1 button{
+	font-weight: bold;
+	border-style: none;
+	background-color: transparent;
+}
+
+.form1 button:hover{
+	border-style: none;
+	background-color: transparent;
+	border: solid 1px white;
+}
